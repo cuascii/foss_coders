@@ -1,3 +1,2 @@
-# FOSS Coders Club
-
-FOSS Coders Club is a community of enthusiastic individuals passionate about the art and science of programming. Our central objective is to foster a collaborative environment where members can enhance their coding skills and knowledge. We focus on utilizing various programming languages and development tools to solve problems and create innovative solutions.
+# chatbot-timmy
+ A Small chatbot made using python that can tell about itself and about you. He's just a child
